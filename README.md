@@ -4,4 +4,4 @@ Code examples that were used during Asynchronous JS presentation on The Rolling 
 
 Slides: https://slides.com/pavelklimashevsky/asynchronousjs
 
-Video: https://www.youtube.com/watch?v=8vE0S5-sDfA (03:45 - 2:05:38)
+Video: https://youtu.be/8vE0S5-sDfA?t=220 (03:45 - 2:05:38)
